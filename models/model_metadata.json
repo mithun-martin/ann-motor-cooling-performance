@@ -1,0 +1,16 @@
+{
+    "feature_names": [
+        "Coolant Flow Rate (LPH)",
+        "Nanoparticle Concentration (%)",
+        "Motor Speed (rpm)",
+        "Motor Load (%)"
+    ],
+    "target_names": [
+        "Winding Temperature (\u00b0C)",
+        "Motor Efficiency (%)",
+        "Cooling Efficiency (%)",
+        "Casing Temp (\u00b0C)",
+        "Pumping Power (W)"
+    ],
+    "model_type": "MLPRegressor"
+}

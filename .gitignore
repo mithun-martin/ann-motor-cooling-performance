@@ -1,0 +1,18 @@
+# Python virtual environments
+env/
+.venv/
+.venv311/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
