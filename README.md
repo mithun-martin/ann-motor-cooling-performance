@@ -20,6 +20,26 @@ The dataset contains **108 experimental samples** and **10 columns**.
 ## 📊 Dataset
 
 The dataset includes the following variables.
+## 📊 Model Results
+
+The ANN model predicts five motor-cooling performance parameters.
+The following graphs compare the actual experimental values with
+the values predicted by the model.
+
+### Winding Temperature
+![Winding Temperature](experiments/figures/ann_actual_vs_predicted_winding_temperature_c.png)
+
+### Motor Efficiency
+![Motor Efficiency](experiments/figures/ann_actual_vs_predicted_motor_efficiency_percent.png)
+
+### Cooling Efficiency
+![Cooling Efficiency](experiments/figures/ann_actual_vs_predicted_cooling_efficiency_percent.png)
+
+### Casing Temperature
+![Casing Temperature](experiments/figures/ann_actual_vs_predicted_casing_temp_c.png)
+
+### Pumping Power
+![Pumping Power](experiments/figures/ann_actual_vs_predicted_pumping_power_w.png)
 
 ### Input Features
 - Coolant Flow Rate (LPH)
