@@ -126,3 +126,8 @@ ann-motor-cooling-performance/
 **Savinitha Sundararajan**  
 B.Tech Artificial Intelligence  
 SRM Institute of Science and Technology
+
+**Mithun Martin**  
+B.Tech Artificial Intelligence
+SRM Institute of Science and Technology
+(https://github.com/mithun-martin)
